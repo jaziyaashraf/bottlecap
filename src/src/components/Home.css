@@ -1,0 +1,49 @@
+/* .home{
+    background-color: blueviolet;
+} */
+img{
+    background-image: url("https://th.bing.com/th/id/R.3175dc540dfe6b9e4ac00517086e4700?rik=N5QK4nhTaaewfA&riu=http%3a%2f%2fwww.forestwander.com%2fwp-content%2foriginal%2f2011_02%2fbeautiful-pink-flower.jpg&ehk=odzj%2bukR0ES%2bVffERmcJ08qxlxnGZlOdQfyrBzhZj3A%3d&risl=&pid=ImgRaw&r=0");
+    background-position: cover;
+    background-size: cover;
+    
+
+}
+.tx{
+    display: grid;
+    place-content: center;
+    position: absolute;
+    top:50%;
+    left:40%;
+    /* align-items: center;
+    justify-content: center;
+    position: absolute;
+    top:50%;
+    left:20%; */
+
+    
+}
+/* .section{
+    margin-top: 500px;
+} */
+    /* margin-top: 500px;
+    margin-right: 2000px;
+    display: flex;
+    
+    align-items: center;
+    justify-content:center;
+     */
+     .section{
+        
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+     }
+     .top{
+        margin-bottom: 500px;
+        
+     }
+     /* img{
+        width:100%;
+     } */
+     

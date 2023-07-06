@@ -1,0 +1,36 @@
+
+    
+    .footer{
+    
+        position:fixed;
+        
+        bottom:0;
+        left:0;
+        right:0;
+        
+        
+    }
+
+.copy{
+    background-color:antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.txt{
+    color: white;
+}
+.ft{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left:15px;
+    right: 25px;
+    
+    
+}
+.h{
+    color:white;
+}
